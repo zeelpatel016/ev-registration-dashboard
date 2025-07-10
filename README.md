@@ -31,6 +31,14 @@ This dashboard visualizes Electric Vehicle (EV) registrations in India across ye
 
  - [Project Summary PDF](docs/EV_Data_Dashboard_Project_Summary%20.pdf)
 
+## 📦 Requirements
+
+To install the necessary packages, run:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## 🚀 How to Run
 
 ```bash
