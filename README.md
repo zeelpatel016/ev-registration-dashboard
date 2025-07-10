@@ -35,3 +35,6 @@ This dashboard visualizes Electric Vehicle (EV) registrations in India across ye
 ```bash
 pip install streamlit pandas matplotlib seaborn
 streamlit run ev_dashboard.py
+## 🚀 Live Dashboard
+
+ 👉 [Click here to view the EV Dashboard on Streamlit](http://localhost:8501/)
