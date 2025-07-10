@@ -17,6 +17,7 @@ This dashboard visualizes Electric Vehicle (EV) registrations in India across ye
   - EV_Analytics_Project_India - Jupyter notebook analysis
   - EV Dashboard.pdf - Dashboard output
   - EV_Data_Dashboard_Project_Summary.pdf - Project summary
+  - requirements.txt
 
 ## 📄 Dashboard Output (PDF View)
 
