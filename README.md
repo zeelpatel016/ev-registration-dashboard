@@ -46,6 +46,9 @@ pip install streamlit pandas matplotlib seaborn
 streamlit run ev_dashboard.py
 ```
 ## 🌐 Deployment 
-The live Streamlit dashboard will be deployed soon on Streamlit Cloud.  
-🔧 Once deployed, the link will be added here for interactive access.
+The live Streamlit dashboard will be deployed soon on Streamlit Cloud. 
+
+### Live Project  
+👉 [Click here to view the Streamlit App](https://9qt4xexs9jsc8gev7p4g6a.streamlit.app)
+
 
