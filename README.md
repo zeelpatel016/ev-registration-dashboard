@@ -21,7 +21,7 @@ This dashboard visualizes Electric Vehicle (EV) registrations in India across ye
 
 ## 📄 Dashboard Output (PDF View)
 
-📥 [Click here to view the full Dashboard Output (PDF)](docs/EV_dashboard.pdf)
+📥 [Click here to view the full Dashboard Output (PDF)](https://github.com/zeelpatel016/ev-data-dashboard-/blob/main/EV_dashboard.pdf)
 
   This PDF includes:
   - Full view of the dashboard
@@ -50,6 +50,7 @@ The live Streamlit dashboard will be deployed soon on Streamlit Cloud.
 
 ### Live Project  
 👉 [Click here to view the Streamlit App](https://9qt4xexs9jsc8gev7p4g6a.streamlit.app)
+
 
 
 
