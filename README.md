@@ -23,12 +23,6 @@
 
 ---
 
-## 📸 Dashboard Preview
-> !([Uploading image.png…])
-
-
----
-
 ## 🔍 Features
 - 📅 **EV Registrations by Year** – Bar chart showing yearly growth
 - 🌍 **EV Registrations by State** – Filter and compare states
