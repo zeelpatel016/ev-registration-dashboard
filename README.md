@@ -28,7 +28,7 @@
 ---
 
 ## 📸 Dashboard Preview
-> *![Uploading image.png…]
+> *(![Uploading image.png…])
 *
 
 ---
@@ -43,8 +43,7 @@
 ---
 
 ## 📁 Project Structure
-ev-data-dashboard/
-│
+ev-registration-dashboard/
 ├── ev_dashboard.py
 ├── EV_Dataset.csv
 ├── EV_Analytics_Project_India.ipynb
