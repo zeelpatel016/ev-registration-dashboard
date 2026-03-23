@@ -1,4 +1,4 @@
-# ⚡ EV Registration Dashboard – India
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6aa30af9-3eec-4a4b-b6c0-4f2455a7e92e" /># ⚡ EV Registration Dashboard – India
 
 
 
@@ -28,13 +28,12 @@
 ---
 
 ## 📸 Dashboard Preview
-
-> *(Drag & drop a screenshot of your dashboard here)*
+> *![Uploading image.png…]
+*
 
 ---
 
 ## 🔍 Features
-
 - 📅 **EV Registrations by Year** – Bar chart showing yearly growth
 - 🌍 **EV Registrations by State** – Filter and compare states
 - 🚗 **Vehicle Class Distribution** – Interactive pie chart (Plotly)
@@ -46,46 +45,35 @@
 ## 📁 Project Structure
 ev-data-dashboard/
 │
-├── ev_dashboard.py                        # Main Streamlit app
-├── EV_Dataset.csv                         # EV registration dataset
-├── EV_Analytics_Project_India.ipynb       # Exploratory data analysis
-├── EV_Data_Dashboard_Project_Summary.pdf  # Project summary
-├── requirements.txt                       # Python dependencies
-└── README.md                              # This file
+├── ev_dashboard.py
+├── EV_Dataset.csv
+├── EV_Analytics_Project_India.ipynb
+├── EV_Data_Dashboard_Project_Summary.pdf
+├── requirements.txt
+└── README.md
 ---
 
 ## 🚀 How to Run Locally
-
-**1. Clone the repository**
 ```bash
 git clone https://github.com/zeelpatel016/ev-data-dashboard-.git
 cd ev-data-dashboard-
-2. Install dependencies
 pip install -r requirements.txt
-3. Run the app
-streamlit run ev_dashboard.py 
+streamlit run ev_dashboard.py
+```
 ---
-## 📦 Requirements
+
+##  📦 Requirements
 streamlit
 pandas
 matplotlib
 seaborn
 plotly
 numpy
-📊 Dataset
-The EV_Dataset.csv contains EV registration records across Indian states with fields:
-Year – Registration year
-State – Indian state name
-Vehicle_Class – Type/class of vehicle
-📄 Documentation
-📥 Project Summary PDF
-📥 Dashboard Output PDF
-🌐 Live Deployment
+---
+### 🌐 Live Deployment
 👉 https://9qt4xexs9jsc8gev7p4g6a.streamlit.app
-📜 License
-This project is licensed under the MIT License.
-👤 Author
+---
+### 👤 Author
 Zeel Patel
 GitHub: @zeelpatel016
 LinkedIn: zeel-p-747057356
----
