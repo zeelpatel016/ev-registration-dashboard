@@ -1,5 +1,5 @@
 # ⚡ EV Registration Dashboard – India
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ab822d4-1a0c-49ef-bd22-5da23f60e51a" />
+<img width="1520" height="680" alt="image" src="https://github.com/user-attachments/assets/3ab822d4-1a0c-49ef-bd22-5da23f60e51a" />
 
 
 
@@ -9,11 +9,6 @@
 
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red?logo=streamlit)
-
-
-
-
-![License](https://img.shields.io/badge/License-MIT-green)
 
 
 
