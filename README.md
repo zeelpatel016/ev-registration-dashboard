@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6aa30af9-3eec-4a4b-b6c0-4f2455a7e92e" /># ⚡ EV Registration Dashboard – India
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ab822d4-1a0c-49ef-bd22-5da23f60e51a" /># ⚡ EV Registration Dashboard – India
 
 
 
@@ -28,8 +28,8 @@
 ---
 
 ## 📸 Dashboard Preview
-> *(![Uploading image.png…])
-*
+> !([Uploading image.png…])
+
 
 ---
 
@@ -43,36 +43,59 @@
 ---
 
 ## 📁 Project Structure
-ev-registration-dashboard/
-├── ev_dashboard.py
-├── EV_Dataset.csv
-├── EV_Analytics_Project_India.ipynb
-├── EV_Data_Dashboard_Project_Summary.pdf
-├── requirements.txt
-└── README.md
+
+```
+ev-data-dashboard/
+│
+├── ev_dashboard.py                        # Main Streamlit app
+├── EV_Dataset.csv                         # EV registration dataset
+├── EV_Analytics_Project_India.ipynb       # Exploratory data analysis
+├── EV_Data_Dashboard_Project_Summary.pdf  # Project summary
+├── requirements.txt                       # Python dependencies
+└── README.md                              # This file
+```
+
 ---
 
 ## 🚀 How to Run Locally
+
+**1. Clone the repository**
 ```bash
 git clone https://github.com/zeelpatel016/ev-data-dashboard-.git
 cd ev-data-dashboard-
+```
+
+**2. Install dependencies**
+```bash
 pip install -r requirements.txt
+```
+
+**3. Run the app**
+```bash
 streamlit run ev_dashboard.py
 ```
+
 ---
 
-##  📦 Requirements
+## 📦 Requirements
+
+```
 streamlit
 pandas
 matplotlib
 seaborn
 plotly
 numpy
+```
+
 ---
-### 🌐 Live Deployment
-👉 https://9qt4xexs9jsc8gev7p4g6a.streamlit.app
+
+## 🌐 Live Deployment
+👉 [https://9qt4xexs9jsc8gev7p4g6a.streamlit.app](https://9qt4xexs9jsc8gev7p4g6a.streamlit.app)
+
 ---
-### 👤 Author
-Zeel Patel
-GitHub: @zeelpatel016
-LinkedIn: zeel-p-747057356
+
+## 👤 Author
+**Zeel Patel**
+- GitHub: [@zeelpatel016](https://github.com/zeelpatel016)
+- LinkedIn: [zeel-p-747057356](https://www.linkedin.com/in/zeel-p-747057356)
