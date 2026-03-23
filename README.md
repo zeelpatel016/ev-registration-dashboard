@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ab822d4-1a0c-49ef-bd22-5da23f60e51a" /># ⚡ EV Registration Dashboard – India
+# ⚡ EV Registration Dashboard – India
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ab822d4-1a0c-49ef-bd22-5da23f60e51a" />
 
 
 
