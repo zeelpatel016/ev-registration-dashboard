@@ -1,53 +1,91 @@
-# ⚡ EV Registration Dashboard (India)
+# ⚡ EV Registration Dashboard – India
 
-This dashboard visualizes Electric Vehicle (EV) registrations in India across years, states, and vehicle classes.
+
+
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
+
+
+
+
+![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red?logo=streamlit)
+
+
+
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
+
+
+![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+
+
+
+> An interactive dashboard to explore Electric Vehicle (EV) registration trends across Indian states, years, and vehicle classes — built with Python and Streamlit.
+
+🔗 **Live App:** [Click here to open the dashboard](https://9qt4xexs9jsc8gev7p4g6a.streamlit.app)
+
+---
+
+## 📸 Dashboard Preview
+
+> *(Drag & drop a screenshot of your dashboard here)*
+
+---
 
 ## 🔍 Features
-- Filter by Year and State
-- 4 Dynamic Charts:
-  - EV Registrations by Year
-  - EV Registrations by State
-  - Vehicle Class Distribution (Pie Chart)
-  - State-wise Growth Trend
 
-## 📁 Files
-  - README.md – Project info
-  - EV_Dataset.csv – EV dataset used
-  - ev_dashboard.py – Main dashboard code
-  - EV_Analytics_Project_India - Jupyter notebook analysis
-  - EV_Data_Dashboard_Project_Summary.pdf - Project summary
-  - requirements.txt
+- 📅 **EV Registrations by Year** – Bar chart showing yearly growth
+- 🌍 **EV Registrations by State** – Filter and compare states
+- 🚗 **Vehicle Class Distribution** – Interactive pie chart (Plotly)
+- 📈 **State-wise Growth Trend** – Line chart for any selected state
+- 🔎 **Sidebar Filters** – Filter by year and state dynamically
 
-## 📄 Dashboard Output (PDF View)
+---
 
-📥 [Click here to view the full Dashboard Output (PDF)](https://github.com/zeelpatel016/ev-data-dashboard-/blob/main/EV_dashboard.pdf)
+## 📁 Project Structure
+ev-data-dashboard/
+│
+├── ev_dashboard.py                        # Main Streamlit app
+├── EV_Dataset.csv                         # EV registration dataset
+├── EV_Analytics_Project_India.ipynb       # Exploratory data analysis
+├── EV_Data_Dashboard_Project_Summary.pdf  # Project summary
+├── requirements.txt                       # Python dependencies
+└── README.md                              # This file
+---
 
-  This PDF includes:
-  - Full view of the dashboard
-  - Charts (Bar & Pie)
+## 🚀 How to Run Locally
 
-## 📄 Documentation
-
- - [Project Summary PDF](https://github.com/zeelpatel016/ev-data-dashboard-/blob/main/EV_Data_Dashboard_Project_Summary%20.pdf)
-
-## 📦 Requirements
-
-To install the necessary packages, run:
-
+**1. Clone the repository**
 ```bash
+git clone https://github.com/zeelpatel016/ev-data-dashboard-.git
+cd ev-data-dashboard-
+2. Install dependencies
 pip install -r requirements.txt
-```
-
-## 🚀 How to Run
-
-```bash
-pip install streamlit pandas matplotlib seaborn
-streamlit run ev_dashboard.py
-```
-## 🌐 Deployment 
-
-👉 [Click here to view the Streamlit App](https://9qt4xexs9jsc8gev7p4g6a.streamlit.app)
-
-
-
-
+3. Run the app
+streamlit run ev_dashboard.py 
+---
+## 📦 Requirements
+streamlit
+pandas
+matplotlib
+seaborn
+plotly
+numpy
+📊 Dataset
+The EV_Dataset.csv contains EV registration records across Indian states with fields:
+Year – Registration year
+State – Indian state name
+Vehicle_Class – Type/class of vehicle
+📄 Documentation
+📥 Project Summary PDF
+📥 Dashboard Output PDF
+🌐 Live Deployment
+👉 https://9qt4xexs9jsc8gev7p4g6a.streamlit.app
+📜 License
+This project is licensed under the MIT License.
+👤 Author
+Zeel Patel
+GitHub: @zeelpatel016
+LinkedIn: zeel-p-747057356
+---
